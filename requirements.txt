@@ -12,6 +12,7 @@ h5py==3.8.0
 httplib2==0.21.0
 idna==3.4
 imageio==2.25.1
+imagecodecs==2023.3.16
 ipywidgets==7.7.1
 jax==0.4.10
 joblib==1.2.0
